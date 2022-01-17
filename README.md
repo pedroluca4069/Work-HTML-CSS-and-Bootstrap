@@ -1,2 +1,2 @@
 # Work-HTML-CSS-and-Bootstrap
-Website básico utilizando HTML, CSS e Boostrap.
+Website básico utilizando HTML, CSS e Bootstrap.
